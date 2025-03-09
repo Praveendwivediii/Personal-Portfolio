@@ -6,7 +6,7 @@
 
 Welcome to my *personal portfolio website*, a showcase of my skills, projects, and contact information! 🚀  
 
-🔗 *Live Demo:* [Praveen-Portfolio](https://praveendwivediii.github.io/Praveen-Portfolio/)
+🔗 *Live Demo:* [https://praveendwivediii.github.io/Personal-Portfolio/)
 
 ---
 
