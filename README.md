@@ -92,6 +92,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
+
 📌 Notes
 
 If you face any issues, check the browser console (F12 → Console).
